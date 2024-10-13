@@ -5,7 +5,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this backend project challenge.
+Thanks for checking out this backend project.
 
 [Mastering Backend](https://masteringbackend.com) projects help you improve your coding skills by building real-world projects.
 
@@ -14,6 +14,8 @@ Thanks for checking out this backend project challenge.
 ## The project
 
 The project is to build your own social media API and get the front end working (the front end has already integrated the API).
+
+[Click here to view more details about this project.](https://projects.masteringbackend.com/projects/build-your-own-social-media-api)
 
 You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
@@ -46,14 +48,14 @@ If you would like the Figma design file to gain experience using professional to
 
 All the required assets and files for this project are in the root folder. If any image is required, they are already exported for the correct screen size and optimized.
 
-There is also a `**prd.pdf` file containing the project requirement information you'll need, such as features, API structure, use cases, objectives, etc.
+There is also a `**prd.pdf` file containing the project requirement information you'll need, such as features, API structure, use cases, objectives, etc. Click on the `Download PRD` on the project description page.
 
 ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
 1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
+2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are several ways to do this, and we provide some recommendations below.
 3. Look through the PRD document to understand the scope and objectives of the project, and preview Frontend for visual understanding, start planning out how you'll tackle the project task.
 4. Before adding any files, structure your content with any backend language. Setting up your database with good schema design first can help focus your attention on creating a well-structured API.
 5. Write out the different endpoints for your project, including all the authenticated and non-authenticated endpoints.
