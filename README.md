@@ -38,7 +38,7 @@ You should have a working API with the functionalities mentioned above. Also, th
 
 ## Where to find everything
 
-Your task is to build your own social media API. You will find an SQLite database file inside the root folder. You will find the front end of each project on the project description page. 
+Your task is to build your own social media API. You will find an SQLite database file called `db.sqlite` inside the root folder. You will find the front end of each project on the project description page. 
 
 You can click on the `Preview Frontend` to have a visual view of what the project is all about. 
 
